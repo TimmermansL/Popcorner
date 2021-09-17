@@ -1,5 +1,5 @@
 # Popcorner
-Popcorner website
+Popcorner website (still in development)
 
 Two-page website:
 - Home
