@@ -1,6 +1,8 @@
 # Popcorner
-Popcorner website (still in development)
+Popcorner website
 
-Two-page website:
+http://popcorner.site/#home
+
+Two-page website made with WordPress:
 - Home
-- Webshop
+- Winkel (Webshop)
